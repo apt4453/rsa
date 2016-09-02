@@ -1,0 +1,17 @@
+#Database Server Info
+#DbServerIp=129.254.186.128
+#DbServerIp=localhost
+DbServerIp=129.254.39.30
+DbPort=3306
+DbUser=root
+DbPassword=qhdks123
+NetworkDBName=apt_dashboard
+local_Network_prefix=192.168.120
+RealtimeWindowSize=100
+CRAB_IP=localhost
+CRAB_PORT=10700
+Nodes=129.254.60.104,129.254.60.105
+
+
+
+
